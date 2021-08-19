@@ -32,6 +32,11 @@
     
   </body>
   <script>
+      $(()=>{
+alert("hello");
       
+      
+      
+    }    )
   </script>
 </html>
