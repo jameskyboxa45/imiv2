@@ -12,7 +12,8 @@
   
   </head>
   <body>
-     <div class = "container"> 
+     <div class = "container">
+       <h1>Ratchata Techapatamanon</h1> 
        <div class="row">
         <div class="class col-6">
           <canvas id="myChart" width="400" height="200"></canvas>
