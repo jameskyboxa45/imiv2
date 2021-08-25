@@ -10,7 +10,7 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.0/dist/chart.min.js"></script>
   </head>
   
-  </head>
+  
   <body>
      <div class = "container">
        <h1>Ratchata Techapatamanon</h1> 
